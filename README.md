@@ -9,7 +9,7 @@ I build data and ML systems end to end: pipelines, models, evaluations, and the 
 - [Credit-risk-early-signals](https://github.com/omvyas77/Credit-risk-early-signals): early-warning NLP on 680,000 consumer complaint narratives. LightGBM on TF-IDF features reaches a PR-AUC of 0.31 where 0.7% of complaints are flagged; a fine-tuned transformer reached 0.12.
 
 **Research**
-- F-Transformer: A Federated Transformer for Efficient and Privacy-Preserving Sequence Generation, *Scientific Reports*, 2026. [Paper](DOI-LINK) · [Code](https://github.com/omvyas77/Efficient-Sequence-Generator-)
+- F-Transformer: A Federated Transformer for Efficient and Privacy-Preserving Sequence Generation, *Scientific Reports*, 2026. [Paper]([(https://doi.org/10.1038/s41598-026-40881-0)) · [Code](https://github.com/omvyas77/Efficient-Sequence-Generator-)
 - BookNest: Ensemble-Based Book Recommendation System, IC4S'05. [Code](https://github.com/omvyas77/BookNest-Ensemle-based-Book-Recommendation-System)
 
 **Tools I use most:** SQL, Python, dbt, DuckDB, Postgres · scikit-learn, LightGBM, PyTorch, Hugging Face · FastAPI, Streamlit, Docker, GitHub Actions
