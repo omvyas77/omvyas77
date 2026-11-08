@@ -1,57 +1,32 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Om Hitesh Vyas</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omvyas77&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="omvyas77's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=omvyas77&theme=nightowl&hide_border=true&cache_seconds=86400" alt="omvyas77's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvyas77&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omvyas77&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Om Hitesh Vyas's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=omvyas77&theme=nightowl&radius=10" alt="omvyas77's Activity Graph" />
-</p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" width="100%" alt="Om Hitesh Vyas. I build data and ML systems, and say what the numbers can't. M.S. in Information Management, University of Illinois, 2026. From uplift, one randomized test of 14M rows: a dashboard would credit 576,824 visits, but the campaign caused about 92,000. Six in seven would have happened anyway.">
 </picture>
 
-<div align="center">
-  <!---->
-</div>
+## Selected work
 
-<p align="center"><sub>Om Hitesh Vyas · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p>
+  <a href="https://github.com/omvyas77/finhelm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/finhelm-dark.png"><img src="assets/finhelm-light.png" width="49%" alt="finhelm: answers questions about bank SEC filings with citations, or refuses. It refused 18 of the 19 questions with no answer in the filings, finds the evidence 74% of the time, refuses wrongly 12% of the time, and costs $0.03 a question. Python, FAISS, RAG, CI-gated evals, Docker."></picture></a>
+  <a href="https://github.com/omvyas77/uplift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/uplift-dark.png"><img src="assets/uplift-light.png" width="49%" alt="uplift: a 14M-row randomized test used as the answer key for causal methods. Propensity weighting on the randomized data biased the estimate by minus 91%. Best Qini 0.089, CUPAC cut variance 30.9%, and 3.6% of targeted users were ever shown an ad. dbt, DuckDB, LightGBM, EconML, FastAPI, Dagster."></picture></a>
+</p>
+<p>
+  <a href="https://github.com/omvyas77/program-health"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/program-health-dark.png"><img src="assets/program-health-light.png" width="49%" alt="program-health: seven public sources on Illinois's business school, refreshed and tested on a schedule. Online programs account for 4,781 of the 4,940 students added since 2017. 81% of the rise in A grades happened within courses, 18 schools are compared, and the forecast did no better than a naive one. dbt, DuckDB, GitHub Actions, Streamlit, Tableau."></picture></a>
+  <a href="https://github.com/omvyas77/Credit-risk-early-signals"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-risk-dark.png"><img src="assets/credit-risk-light.png" width="49%" alt="Credit-risk-early-signals: early warnings from consumer complaints filed with the CFPB. LightGBM reaches a PR-AUC of 0.314 on a later period where 0.7% of complaints are flagged; logistic regression 0.286, a fine-tuned transformer 0.121, and 0.124 on a product the model never saw. Python, TF-IDF, LightGBM, transformers, SHAP."></picture></a>
+</p>
+
+You can try three of them: the [finhelm demo](https://huggingface.co/spaces/omvyas77/finhelm), the [uplift dashboard](https://huggingface.co/spaces/omvyas77/uplift), and the [program-health app](https://huggingface.co/spaces/omvyas77/gies-program-health), with its [written brief](https://github.com/omvyas77/program-health/blob/main/brief/brief.pdf). A demo that has been idle takes a minute to wake.
+
+## Research
+
+- **F-Transformer: a federated transformer for efficient and privacy-preserving sequence generation.** *Scientific Reports* 16, 14093 (2026). [Paper](https://doi.org/10.1038/s41598-026-40881-0) and [code](https://github.com/omvyas77/Efficient-Sequence-Generator-).
+- **BookNest: Ensemble-Based Book Recommendation System.** IC4S'05. [Code](https://github.com/omvyas77/BookNest-Ensemle-based-Book-Recommendation-System).
+
+## Tools
+
+**Data:** SQL, Python, PySpark, dbt, DuckDB, Postgres<br>
+**Modeling:** scikit-learn, LightGBM, EconML, PyTorch, Hugging Face<br>
+**Shipping:** FastAPI, Streamlit, Docker, GitHub Actions, Tableau
+
+## Contact
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/om-hitesh-vyas-97340a204/) or at [omvyas288@gmail.com](mailto:omvyas288@gmail.com). My demos are on [Hugging Face](https://huggingface.co/omvyas77) and my dashboards on [Tableau Public](https://public.tableau.com/app/profile/om.vyas).
