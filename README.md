@@ -1,17 +1,57 @@
-# Om Hitesh Vyas
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Om Hitesh Vyas</h1>
 
-I build data and ML systems end to end: pipelines, models, evaluations, and the apps people use them through. Each project below says what its results show and what they don't. M.S. in Information Management, University of Illinois, 2026.
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-**Selected work**
-- [finhelm](https://github.com/omvyas77/finhelm): question answering over bank SEC filings that cites its sources or refuses. It finds the evidence for 74% of questions and refuses 18 of the 19 it can't answer, at $0.03 a question. RAG, FAISS, CI-gated evals, Docker. [Demo](https://huggingface.co/spaces/omvyas77/finhelm)
-- [uplift](https://github.com/omvyas77/uplift): a 14M-record randomized experiment used as the answer key for causal methods. About 92,000 of the treated arm's 577,000 visits were caused by the campaign, and inverse-propensity weighting on the randomized data biased the estimate by −91% while every overlap check looked healthy. dbt, DuckDB, EconML, FastAPI, Dagster. [Dashboard](https://huggingface.co/spaces/omvyas77/uplift)
-- [program-health](https://github.com/omvyas77/program-health): a pipeline over seven public sources that refreshes on a schedule, tests every build, and publishes an app, dashboards, and a brief. It found that online programs account for 4,781 of the 4,940 students a business school added since 2017. dbt, DuckDB, GitHub Actions, Streamlit, Tableau. [App](https://huggingface.co/spaces/omvyas77/gies-program-health) · [Brief](https://github.com/omvyas77/program-health/blob/main/brief/brief.pdf)
-- [Credit-risk-early-signals](https://github.com/omvyas77/Credit-risk-early-signals): early-warning NLP on 680,000 consumer complaint narratives. LightGBM on TF-IDF features reaches a PR-AUC of 0.31 where 0.7% of complaints are flagged; a fine-tuned transformer reached 0.12.
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-**Research**
-- F-Transformer: A Federated Transformer for Efficient and Privacy-Preserving Sequence Generation, *Scientific Reports*, 2026. [Paper](https://doi.org/10.1038/s41598-026-40881-0) · [Code](https://github.com/omvyas77/Efficient-Sequence-Generator-)
-- BookNest: Ensemble-Based Book Recommendation System, IC4S'05. [Code](https://github.com/omvyas77/BookNest-Ensemle-based-Book-Recommendation-System)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omvyas77&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="omvyas77's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=omvyas77&theme=nightowl&hide_border=true&cache_seconds=86400" alt="omvyas77's GitHub Streak" width="49%" />
+</p>
 
-**Tools I use most:** SQL, Python, dbt, DuckDB, Postgres · scikit-learn, LightGBM, PyTorch, Hugging Face · FastAPI, Streamlit, Docker, GitHub Actions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvyas77&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omvyas77&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Om Hitesh Vyas's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=omvyas77&theme=nightowl&radius=10" alt="omvyas77's Activity Graph" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/om-hitesh-vyas-97340a204/) · omvyas288@gmail.com
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <!---->
+</div>
+
+<p align="center"><sub>Om Hitesh Vyas · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
