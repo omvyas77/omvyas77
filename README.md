@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.omvyas.space/">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/om-hitesh-vyas-97340a204/">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:omvyas288@gmail.com">Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/omvyas77">Hugging Face</a>&nbsp;&nbsp;&nbsp;&nbsp;
